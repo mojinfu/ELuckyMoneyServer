@@ -1,0 +1,6 @@
+{
+    "LogDir": "../log/",
+    "LogLevel": 3,
+    "MaxLogLen_m": 1800,
+    "HttpHost": ":39383"
+}
